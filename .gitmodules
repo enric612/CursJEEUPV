@@ -1,0 +1,3 @@
+[submodule "projectes/piloto"]
+	path = projectes/piloto
+	url = git@github.com:enric612/-CURSJEEUPV-Piloto.git
